@@ -17,7 +17,7 @@ token消費が抑えられてかつ性能もいい感じだったんだけど、
 
 ![週制限に到達したスクリーンショット。All modelsは70%だが、Sonnet onlyが100%に](/images/claude-code-sonnet-weekly-limit-trap/weekly-limit.png)
 
-All modelsの週制限は70%なのに、Sonnet onlyが100%に到達。
+All modelsの週制限は70%なのに、Sonnet onlyが100%に到達($100プラン)。
 
 Claudeの週制限にはAll modelsとSonnet onlyの2つがあって、Sonnetばかり使っていると、全体の制限に余裕があってもSonnetだけ先に枯渇する。
 
