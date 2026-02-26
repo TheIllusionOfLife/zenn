@@ -1,5 +1,5 @@
 ---
-title: "Claude CodeでSonnet 4.6だけ使ってたらSonnetの週制限に引っかかので対策を練った。"
+title: "Claude CodeでSonnet 4.6だけ使ってたらSonnetの週制限に引っかかったので対策を練った。"
 emoji: "⚠️"
 type: "tech"
 topics:
